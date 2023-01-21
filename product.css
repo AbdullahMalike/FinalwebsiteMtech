@@ -1,0 +1,24 @@
+.cuscolor{
+    background-color: #1C1C1C;
+}
+.stylebox{
+    box-shadow: 2px  2px  20px red;
+}
+.stylebox:hover{
+    margin-top: 5px;
+    transition: 1s;
+}
+.customecolor{
+    background-color: #1C1C1C;
+}
+.customborder{
+    border-left: 1px solid white;
+    
+}
+.whatsapp-icon {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 999;
+  }
+ 
